@@ -29,6 +29,8 @@
       -- USB charger to aliment the Raspberry 
       -- Raspberry cables to aliment the leds 
 <h2> ** 💬 Project Architechture  </h2>
+<p align="center"> <img src="https://github.com/SabriMahmoud/Smart_Door_With_Raspberry_Pi_3B-/blob/MahmoudLarbi/DesktopAppServices/project_architecture.png" alt="chams16" /> </p>
+
 <h2 align="left">The User Interface </h2>
 <br/>
 - The owner will have this interface implemented inside the house ( Further goals to work on a mobile application )  
