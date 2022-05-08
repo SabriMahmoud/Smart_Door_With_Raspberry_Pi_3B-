@@ -30,6 +30,9 @@
       -- Raspberry cables to aliment the leds 
 <h2> ** 💬 Project Architechture  </h2>
 <p align="center"> <img src="https://github.com/SabriMahmoud/Smart_Door_With_Raspberry_Pi_3B-/blob/MahmoudLarbi/DesktopAppServices/project_architecture.png" alt="chams16" /> </p>
+To Do : - Reference entities 
+        - Steps to run the project
+
 
 <h2 align="left">The User Interface </h2>
 <br/>
