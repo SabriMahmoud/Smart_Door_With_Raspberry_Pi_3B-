@@ -16,7 +16,7 @@ imagePaths = list(paths.list_images("dataset"))
 knownEncodings = []
 knownNames = []
 
-# loop over the image paths
+
 for (i, imagePath) in enumerate(imagePaths):
 	# extract the person name from the image path
 	print("[INFO] processing image {}/{}".format(i + 1,
