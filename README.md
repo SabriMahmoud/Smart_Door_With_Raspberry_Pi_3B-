@@ -1,5 +1,8 @@
 # Smart Door 
-
+To Do : - Reference entities 
+        - Raspberrypi configuration ( OS installation and Wifi config ) 
+        - Steps to run the project
+        - Systemd Configuration 
  
 <h1 align="center">Smart Door</h1>
 <h3 align="center">This project is a capstone of the material Industrial networks we use Raspberry pi 3 model B V1.2 to control a door. We don't have a real commendable door so  we use leds  instead of a door. </h3>
@@ -30,8 +33,7 @@
       -- Raspberry cables to aliment the leds 
 <h2> ** 💬 Project Architechture  </h2>
 <p align="center"> <img src="https://github.com/SabriMahmoud/Smart_Door_With_Raspberry_Pi_3B-/blob/MahmoudLarbi/DesktopAppServices/project_architecture.png" alt="chams16" /> </p>
-To Do : - Reference entities 
-        - Steps to run the project
+
 
 
 <h2 align="left">The User Interface </h2>
